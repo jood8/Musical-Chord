@@ -1,0 +1,9 @@
+streamlit
+librosa
+numpy
+scikit-learn
+matplotlib
+joblib
+xgboost
+imbalanced-learn
+pandas
