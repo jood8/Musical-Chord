@@ -40,6 +40,8 @@ Multiple models were compared to find the best performance:
 ├── chord_pipeline.pkl    # Serialized best model
 ├── requirements.txt      # List of dependencies
 └── README.md             # Project documentation
+
+
 👨‍💻 Author
 Developed as part of a Machine Learning journey combining:
 Audio Processing
