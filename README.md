@@ -34,6 +34,8 @@ Multiple models were compared to find the best performance:
 * The best model is serialized as `chord_pipeline.pkl`.
 * Built with a **pure Streamlit** interface (No HTML/CSS) for a clean, efficient UI.
 
+### 🚀 Live Demo: [Try the App Here](https://musical-chord-g9tktwrxrz72xxssfmelmf.streamlit.app/)
+
 ## 📂 Project Structure
 ├── app.py                # Streamlit web app UI
 ├── main.py               # Data processing & Training pipeline
