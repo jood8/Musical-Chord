@@ -1,11 +1,12 @@
 # Musical-Chord Detection System
 **ML-powered Web App using Audio Signal Processing (Librosa) + Streamlit**
-
-An end-to-end Machine Learning web application that detects musical chords from audio files using advanced audio signal processing and interactive visualization.
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 📺 Demo Video
 A full video demonstration of the system's features and performance can be viewed here: (https://drive.google.com/file/d/1h-CWYAxsFluQWpXH7zyef9uBliOhbrkI/view?usp=drive_link)
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+An end-to-end Machine Learning web application that detects musical chords from audio files using advanced audio signal processing and interactive visualization.
+
 ## 🌟 Overview
 This project allows users to upload an audio file (WAV / MP3) and automatically:
 * ✅ **Detect** the musical chord (Major/Minor).
